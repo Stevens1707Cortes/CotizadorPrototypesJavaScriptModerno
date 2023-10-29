@@ -1,1 +1,1 @@
-# CotizadorPrototypesJavasCriptModerno
+# CotizadorPrototypesJavaScriptModerno
